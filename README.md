@@ -15,6 +15,6 @@ Although coding habits could not be accurately determined based on the available
 
 Let's dive deeper into my GitHub presence and explore my passion for programming:
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=PiloteCode&viewall=true) ![Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=PiloteCode&viewall=true) ![Streak](https://streak-stats.demolab.com/?user=PiloteCode)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
