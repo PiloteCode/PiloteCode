@@ -11,26 +11,6 @@ Here's an overview of my GitHub activity:
 
 Although coding habits could not be accurately determined based on the available data, my commitment and eagerness to learn new technologies are evident through the variety of languages and projects I have worked on.
 
-## Project Highlights
-
-Here are some of my notable projects that showcase my skills and areas of interest:
-
-- [PiloteSelfBot](https://github.com/PiloteCode/PiloteSelfBot): A Python project that demonstrates my expertise in building Discord bots. As an experienced Discord bot developer, I have implemented various functionalities and utilized the power of Python to create a feature-rich bot.
-
-- [PalaniumClicker](https://github.com/PiloteCode/PalaniumClicker): An exciting game development project that reflects my interest in building games. Using modern tools and languages, I created a captivating and interactive clicking game that engages users with its challenging gameplay.
-
-- [PiloteLauncher](https://github.com/PiloteCode/PiloteLauncher): Another game development project where I explored the world of game launchers. With this repository, I aimed to enhance the overall gaming experience by providing users with a smooth and efficient launcher solution for games.
-
-- [Pilotestudio-java-core](https://github.com/PiloteCode/Pilotestudio-java-core): A repository that demonstrates my flexibility in programming languages. By venturing into the world of Java, I aimed to expand my skill set and improve my understanding of various programming concepts.
-
-## Contact Information
-
-If you're interested in collaborating on projects or just want to chat, feel free to reach out to me through the following channels:
-
-- Email: contact@piloteproduction.yt
-
-I'm always open to new opportunities, so don't hesitate to connect!
-
 ## Deep Analysis and Introduction
 
 Let's dive deeper into my GitHub presence and explore my passion for programming:
