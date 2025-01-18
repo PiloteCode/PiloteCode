@@ -13,6 +13,8 @@ Here's an overview of my GitHub activity:
 
 Let's dive deeper into my GitHub presence and explore my passion for programming:
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=PiloteCode&viewall=true) ![Streak](https://streak-stats.demolab.com/?user=PiloteCode)
+![Trophy](https://github-profile-trophy.vercel.app/?username=PiloteCode&viewall=true) 
+
+[![GitHub Streak](https://github-streak-stats-seven.vercel.app?user=PiloteCode&theme=dark&locale=fr)](https://git.io/streak-stats)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
