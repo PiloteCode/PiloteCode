@@ -15,6 +15,6 @@ Let's dive deeper into my GitHub presence and explore my passion for programming
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiloteCode&viewall=true) 
 
-[![GitHub Streak](https://github-streak-stats-seven.vercel.app?user=PiloteCode&theme=dark&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-seven.vercel.app?user=PiloteCode&theme=dark&locale=en)](https://piloteshopping.com)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
