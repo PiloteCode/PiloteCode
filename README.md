@@ -7,7 +7,7 @@ Here's an overview of my GitHub activity:
 - Joined GitHub on December 2, 2020.
 - Created a total of 10 public repositories and ~7 private :D.
 - Used a variety of programming languages, including JavaScript, CSS, HTML, Python, and PHP.
-- Explored different areas of interest, such as Discord bot development using Python, game development with repositories like "PalaniumClicker" and "PiloteLauncher" and learning new languages with the "PiloteShoppingCMS" repository.
+- Explored different areas of interest, such as Discord bot development using Python, game development with repositories like "PaladiumClicker" and "PiloteLauncher" and learning new languages with the "PiloteShoppingCMS" repository.
 
 ## Deep Analysis and Introduction
 
