@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiloteCode)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PiloteCode&theme=dark)](https://pilotecode.com)
