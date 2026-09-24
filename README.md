@@ -23,25 +23,25 @@
 
 ## My Claude, live
 
-<sub>Measured by UsageMeter on my own machines. The cards update every hour, my limits every 5 minutes.</sub>
+<sub>Measured by UsageMeter on my own machines, refreshed every 5 minutes.</sub>
 
 <p align="center">
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/streak.svg?style=badge&size=lg">
-      <img alt="My Claude streak" src="https://usagemeter.app/api/badge/yhzn37yuca/streak.svg?style=badge&theme=light&size=lg" height="28">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/streak.svg?style=badge&theme=github-dark&size=lg">
+      <img alt="My Claude streak" src="https://usagemeter.app/api/badge/yhzn37yuca/streak.svg?style=badge&theme=github-light&size=lg" height="28">
     </picture>
   </a>
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?style=badge&size=lg">
-      <img alt="My Claude Code tokens this week" src="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?style=badge&theme=light&size=lg" height="28">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?style=badge&theme=github-dark&size=lg">
+      <img alt="My Claude Code tokens this week" src="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?style=badge&theme=github-light&size=lg" height="28">
     </picture>
   </a>
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?style=badge&size=lg">
-      <img alt="My Claude Code models" src="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?style=badge&theme=light&size=lg" height="28">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?style=badge&theme=github-dark&size=lg">
+      <img alt="My Claude Code models" src="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?style=badge&theme=github-light&size=lg" height="28">
     </picture>
   </a>
 </p>
@@ -49,8 +49,8 @@
 <p align="center">
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/heatmap.svg?size=lg">
-      <img alt="My days with Claude" src="https://usagemeter.app/api/badge/yhzn37yuca/heatmap.svg?theme=light&size=lg" width="525" height="245">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/stats.svg?theme=github-dark">
+      <img alt="My Claude stats at a glance" src="https://usagemeter.app/api/badge/yhzn37yuca/stats.svg?theme=github-light" width="420" height="230">
     </picture>
   </a>
 </p>
@@ -58,14 +58,8 @@
 <p align="center">
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg">
-      <img alt="My Claude Code tokens this week" src="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?theme=light" width="400" height="126">
-    </picture>
-  </a>
-  <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/models.svg">
-      <img alt="My Claude Code models" src="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?theme=light" width="400" height="141">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/heatmap.svg?theme=github-dark&size=lg">
+      <img alt="My days with Claude" src="https://usagemeter.app/api/badge/yhzn37yuca/heatmap.svg?theme=github-light&size=lg" width="525" height="245">
     </picture>
   </a>
 </p>
@@ -73,14 +67,35 @@
 <p align="center">
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/limits.svg">
-      <img alt="My Claude limits, live" src="https://usagemeter.app/api/badge/yhzn37yuca/limits.svg?theme=light" width="400" height="156">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?theme=github-dark">
+      <img alt="My Claude Code tokens this week" src="https://usagemeter.app/api/badge/yhzn37yuca/tokens.svg?theme=github-light" width="400" height="126">
     </picture>
   </a>
   <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/cost.svg">
-      <img alt="What my Claude Code would cost at API prices" src="https://usagemeter.app/api/badge/yhzn37yuca/cost.svg?theme=light" width="400" height="126">
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?theme=github-dark">
+      <img alt="My Claude Code models" src="https://usagemeter.app/api/badge/yhzn37yuca/models.svg?theme=github-light" width="400" height="141">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/trophies.svg?theme=github-dark">
+      <img alt="My Claude trophies" src="https://usagemeter.app/api/badge/yhzn37yuca/trophies.svg?theme=github-light" width="400" height="139">
+    </picture>
+  </a>
+  <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/limits.svg?theme=github-dark">
+      <img alt="My Claude limits, live" src="https://usagemeter.app/api/badge/yhzn37yuca/limits.svg?theme=github-light" width="400" height="156">
+    </picture>
+  </a>
+  <a href="https://usagemeter.app/?utm_source=github&utm_medium=profile&utm_campaign=creator_readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://usagemeter.app/api/badge/yhzn37yuca/cost.svg?theme=github-dark">
+      <img alt="What my Claude Code would cost at API prices" src="https://usagemeter.app/api/badge/yhzn37yuca/cost.svg?theme=github-light" width="400" height="126">
     </picture>
   </a>
 </p>
@@ -101,7 +116,7 @@
 - **The price of every reply** on claude.ai, as a share of your session. Never a wrong figure.
 - **Alerts before the wall** (Pro), never twice across your browsers and the Link app.
 - **Where your Claude Code tokens go:** sub-agents, MCP servers, skills, with UsageMeter Link.
-- **Claude on your GitHub profile:** the widgets above, free.
+- **Claude on your GitHub profile:** the widgets above, six of them free, in up to 19 themes.
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/usagemeter/hogiifbepjnfjaikjfifaacppefnjblg"><img alt="Add to Chrome" src="https://img.shields.io/badge/Add%20to%20Chrome-free-22c55e?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white"></a>
